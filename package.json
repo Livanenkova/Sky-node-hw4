@@ -1,0 +1,29 @@
+{
+  "name": "sky-node-hw4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^5.13.15",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Livanenkova/Sky-node-hw4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Livanenkova/Sky-node-hw4/issues"
+  },
+  "homepage": "https://github.com/Livanenkova/Sky-node-hw4#readme"
+}
